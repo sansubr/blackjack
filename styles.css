@@ -1,0 +1,13 @@
+body {
+    margin: 20px;
+    height: auto;
+    width: 30rem;
+}
+
+
+.main-body {
+    background-color: peru;
+    padding: 2rem;
+    border: 5px black solid;
+    border-radius: 1rem;
+}
